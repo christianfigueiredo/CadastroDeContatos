@@ -3,7 +3,7 @@
 }
 <div class="text-center">
     <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <a class="btn btn-primary" role="button">Adicionar novo contato</a>
+        <a class="btn btn-primary" role="button" asp-controller="Contato" asp-action="Criar">Adicionar novo contato</a>
     </div>
     <br />
 
@@ -26,8 +26,8 @@
                 <td>Otto@email.com</td>
                 <td>22 99999-2222</td>
                 <td class="btn-group" role="group">
-                    <a role="button" class="btn btn-primary">Editar</a>
-                    <a role="button" class="btn btn-danger">Apagar</a>
+                    <a role="button" class="btn btn-primary" asp-controller="Contato" asp-action="Editar">Editar</a>
+                    <a role="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarConfirmacao">Apagar</a>
 
                 </td>
             </tr>
@@ -37,8 +37,8 @@
                 <td>Thornton@email.com</td>
                 <td>22 99999-2222</td>
                 <td class="btn-group" role="group">
-                    <a role="button" class="btn btn-primary">Editar</a>
-                    <a role="button" class="btn btn-danger">Apagar</a>
+                    <a role="button" class="btn btn-primary" asp-controller="Contato" asp-action="Editar">Editar</a>
+                    <a role="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarConfirmacao">Apagar</a>
 
                 </td>
             </tr>
@@ -48,8 +48,8 @@
                 <td>larry@email.com</td>
                 <td>22 99999-2222</td>
                 <td class="btn-group" role="group">
-                    <a role="button" class="btn btn-primary">Editar</a>
-                    <a role="button" class="btn btn-danger">Apagar</a>
+                    <a role="button" class="btn btn-primary" asp-controller="Contato" asp-action="Editar">Editar</a>
+                    <a role="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarConfirmacao">Apagar</a>
 
                 </td>
             </tr>

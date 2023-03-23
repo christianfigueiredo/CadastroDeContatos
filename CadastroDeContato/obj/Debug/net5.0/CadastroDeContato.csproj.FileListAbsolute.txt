@@ -722,3 +722,6 @@ F:\Projetos\outros\aspnetcore\CadastroDeContato\CadastroDeContato\obj\Debug\net5
 F:\Projetos\outros\aspnetcore\CadastroDeContato\CadastroDeContato\obj\Debug\net5.0\CadastroDeContato.pdb
 F:\Projetos\outros\aspnetcore\CadastroDeContato\CadastroDeContato\obj\Debug\net5.0\CadastroDeContato.genruntimeconfig.cache
 F:\Projetos\outros\aspnetcore\CadastroDeContato\CadastroDeContato\obj\Debug\net5.0\ref\CadastroDeContato.dll
+F:\Projetos\outros\aspnetcore\CadastroDeContato\CadastroDeContato\obj\Debug\net5.0\Razor\Views\Contato\Criar.cshtml.g.cs
+F:\Projetos\outros\aspnetcore\CadastroDeContato\CadastroDeContato\obj\Debug\net5.0\Razor\Views\Contato\Editar.cshtml.g.cs
+F:\Projetos\outros\aspnetcore\CadastroDeContato\CadastroDeContato\obj\Debug\net5.0\Razor\Views\Contato\ApagarConfirmacao.cshtml.g.cs
