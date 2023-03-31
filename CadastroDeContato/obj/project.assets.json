@@ -6648,11 +6648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projetos\\outros\\aspnetcore\\CadastroDeContato\\CadastroDeContato\\CadastroDeContato.csproj",
+      "projectUniqueName": "F:\\Projetos\\outros\\aspnetcore\\CadastroDeContatos\\CadastroDeContato\\CadastroDeContato.csproj",
       "projectName": "CadastroDeContato",
-      "projectPath": "F:\\Projetos\\outros\\aspnetcore\\CadastroDeContato\\CadastroDeContato\\CadastroDeContato.csproj",
+      "projectPath": "F:\\Projetos\\outros\\aspnetcore\\CadastroDeContatos\\CadastroDeContato\\CadastroDeContato.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "F:\\Projetos\\outros\\aspnetcore\\CadastroDeContato\\CadastroDeContato\\obj\\",
+      "outputPath": "F:\\Projetos\\outros\\aspnetcore\\CadastroDeContatos\\CadastroDeContato\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
